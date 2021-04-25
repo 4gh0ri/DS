@@ -1,5 +1,4 @@
 /* Write a menu-driven program to find the index of a pattern in a given string and to extract a substring.
-   Code Written By Om Chetwani
    Date of Submission:07/01/2021
  */
 #include <stdio.h>
