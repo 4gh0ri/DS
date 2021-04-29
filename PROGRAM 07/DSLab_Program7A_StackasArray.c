@@ -1,5 +1,5 @@
 /* Write a menu driven program to implement different operations on a stack using an array
-   Code Written By Om Chetwani
+   Code Written By 4gh0ri
    Date of Submission:11/03/2021
  */
 #include<stdio.h>
