@@ -1,3 +1,4 @@
+/*Code Written By 4gh0ri*/
 #include <stdio.h>
 #include <stdlib.h>
 struct node
