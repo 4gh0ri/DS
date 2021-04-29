@@ -1,6 +1,6 @@
 /*  Write a program to print the appropriately triple < row, column, "value" > 
     that represents the elements in the sparse matrix.
-   Code Written By Om Chetwani
+   Code Written By 4gh0ri
    Date of Submission:04/02/2021
  */
 #include <stdio.h>
