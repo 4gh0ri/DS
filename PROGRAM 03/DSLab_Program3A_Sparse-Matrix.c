@@ -1,6 +1,6 @@
 /* Write a menu driven program to read a sparse matrix of integer values and
    to search the sparse matrix for any element specified by the user.
-   Code Written By Om Chetwani
+   Code Written By 4gh0ri
    Date of Submission:04/02/2021
  */
 #include <stdio.h>
