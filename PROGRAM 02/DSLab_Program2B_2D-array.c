@@ -1,5 +1,5 @@
 /* Write a menu-driven program to traverse, insert, delete elements in 1D arrays.
-   Code Written By Om Chetwani
+   Code Written By 4gh0ri
    Date of Submission:28/01/2021
  */
 #include <stdio.h>
