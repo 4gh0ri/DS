@@ -1,5 +1,5 @@
 /* Menu driven program to implement Bread first Search
-   Code written by Om Chetwani
+   Code written by 4gh0ri
    Date of Submission:22/04/2021
 */
 #include <stdio.h>
