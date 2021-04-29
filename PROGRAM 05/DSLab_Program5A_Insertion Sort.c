@@ -1,5 +1,5 @@
 /* Write a menu driven program to implement insertion sort
-   Code Written By Om Chetwani
+   Code Written By 4gh0ri
    Date of Submission:25/02/2021
  */
 #include <stdio.h>
