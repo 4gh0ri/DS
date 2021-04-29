@@ -1,5 +1,5 @@
 /* Menu Driven Program to Implement operation on a Queue using an Array
-    Code Written by:Om Chetwani
+    Code Written By 4gh0ri
     Date of Submission:08/04/2021
  */
 #include <stdio.h>
