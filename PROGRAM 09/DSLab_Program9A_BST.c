@@ -1,3 +1,4 @@
+/* Code Written By 4gh0ri*/
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
