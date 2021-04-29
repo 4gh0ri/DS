@@ -1,5 +1,5 @@
 /* Write a menu-driven program to compare, concatenate, copy strings and find the length of a string.
-   Code Written By Om Chetwani
+   Code Written By 4gh0ri
    Date of Submission:22/01/2021
  */
 #include <stdio.h>
