@@ -1,5 +1,5 @@
 /* Write a program to implement linear search 
-   Code Written By Om Chetwani
+   Code Written By 4gh0ri
    Date of Submission:11/02/2021
  */
 #include <stdio.h>
